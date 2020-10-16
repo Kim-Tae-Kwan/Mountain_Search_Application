@@ -11,6 +11,6 @@
 
 ## 검색 화면
 
-![부산](/readmeFile/MountainSearch_BusanSearch.png) 
-![](/readmeFile/MountainSearch_JirisanSearch.png) 
+![부산](/readmeFile/MountainSearch_Search.png) 
+
 
